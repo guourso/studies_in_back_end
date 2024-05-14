@@ -1,2 +1,3 @@
 # studies_in_back_end
-e
+Estudos no Backend
+- - Python - Started
