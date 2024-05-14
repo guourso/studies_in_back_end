@@ -1,5 +1,5 @@
 import re
-
+# primeiro estudo em pyton. Agenda de contatos.
 def add_new_contact(agenda):
     print("\nAdicionar Contato:")
     name = input("Nome: ")
